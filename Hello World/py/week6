@@ -1,0 +1,11 @@
+def greet(xx):
+  if xx == 'es':
+    print('Hola')
+  if xx == 'it':
+    print('Ciao')
+  if xx == 'fr':
+    print('Bonjour')
+  if xx == 'en':
+    print('Hello')
+
+l = input('What language do you speak?', greet(xx))

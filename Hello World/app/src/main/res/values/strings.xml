@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="message">BMI Calculator</string>
+    <string name="message_classificacao">Classificação: %1$s!</string>
+    <string name="messageIMC">Check out the BMI table below:</string>
+    <string name="messageTabela">Underweight (less than 18.5) \n Healthy Weight (is 18.5 to 24.9) \n Overweight (is 25 to 29.9) \n Obesity I (is 30 to 34,9) \n Obesity II (is 35 to 39,9) \n Obesity III (40 or higher)</string>
+    <string name="disclaimer"><i>Disclaimer: The Body Mass Index is only one tool used to calculate health risk. Other factors must also be taken into consideration while assessing your health.</i></string>
+    </resources>

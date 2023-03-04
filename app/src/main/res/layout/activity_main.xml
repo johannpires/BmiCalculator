@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_margin="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/edtPeso"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:inputType="numberDecimal"
+        android:maxLength="5"
+        android:hint="Type in your weight (in kilograms)"/>
+
+    <EditText
+        android:id="@+id/edtAltura"
+        android:layout_below="@+id/edtPeso"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:inputType="numberDecimal"
+        android:maxLength="5"
+        android:hint="Type in your height (in meters)"/>
+
+    <Button
+        android:id="@+id/edtBttn"
+        android:text="Calculate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
