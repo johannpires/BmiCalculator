@@ -29,7 +29,7 @@ The BMI Calculator was an application that I developed to take my first steps in
 - Upgrading the app UI
 
 ## Author
-Johann Pires (follow me on [LinkedIn](linkedin.com/in/johann-p-261961215))
+Johann Pires (follow me on [LinkedIn](https://www.linkedin.com/in/johann-p-261961215/))
 
 ## License
 ```
